@@ -1,0 +1,10 @@
+
+
+Fiscal Analysis
+-------------------------
+Total months: 86
+Net Protit: 22564198
+Average Montly Profit: Aug-16: -1825558
+The best fiscal month was: Aug-16: 1862002
+The worst fiscal month was: Feb-14: -1825558
+-------------------------
